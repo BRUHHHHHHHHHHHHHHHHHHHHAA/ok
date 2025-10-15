@@ -1,2 +1,1 @@
-# ok
-oikbruuh
+Roblox Reverse Engineering Toolkit is a comprehensive suite designed for security research and educational purposes in Roblox game environments. This toolkit provides advanced memory manipulation, payload injection, and remote event exploitation capabilities with 90% undetectable (UNC) execution.
